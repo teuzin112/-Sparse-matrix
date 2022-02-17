@@ -1,7 +1,6 @@
 # -Sparse-matrix
-Simple project realized during the discipline Algorithms and Data Structures
-
-
+Simple project realized during the discipline Algorithms and Data Structures.
+This project implements a circular doubly linked list to represent a sparse matrix and realize most of the matrix operations.
 
 For the proper compilation and execution of the program, it is recommended to create a project in
 CodeBlocks with the source files.
@@ -12,3 +11,5 @@ memory for performing operations.
 If you use the load file option (option 6), the word that indicates which operation should be
 performed must be one of these: “soma” for addtion, “subtracao” for subtraction, “multiplicacao” for multiplication, “transposta” for tranpose or
 “simetrica” for symmetric.
+
+There is also a few .txt files for test.
